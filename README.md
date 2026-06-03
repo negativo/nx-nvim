@@ -1,4 +1,6 @@
 # nx-nvim
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Neovim](https://img.shields.io/badge/neovim-%3E%3D0.10-blue)](https://neovim.io)
 
 A [Neovim](https://neovim.io) + [Telescope](https://github.com/nvim-telescope/telescope.nvim)
 plugin that lists every [NX](https://nx.dev) project/target in your workspace and
