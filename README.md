@@ -6,6 +6,8 @@ A [Neovim](https://neovim.io) + [Telescope](https://github.com/nvim-telescope/te
 plugin that lists every [NX](https://nx.dev) project/target in your workspace and
 runs the selected one in a split terminal.
 
+![demo](demo.gif)
+
 > ⚠️ **Early development.** This plugin has only been tested on my own
 > setup (specific Neovim, Telescope, nx, and package-manager versions). It may
 > break on other configurations. If something doesn't work, please
